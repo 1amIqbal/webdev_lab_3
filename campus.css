@@ -1,0 +1,24 @@
+/* campus.css — theme customization */
+
+body {
+  background: linear-gradient(to right, #e8f5e9, #a5d6a7);
+}
+
+.body_area h2 {
+  color: #1b5e20;
+}
+
+.card {
+  background-color: #f1f8e9;
+  border: 2px solid #66bb6a;
+}
+
+.card h3 {
+  color: #2e7d32;
+}
+
+.card:hover {
+  transform: scale(1.08);
+  background-color: #c8e6c9;
+  box-shadow: 0 6px 15px rgba(0, 100, 0, 0.2);
+}
